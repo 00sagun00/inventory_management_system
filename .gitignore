@@ -1,0 +1,56 @@
+# Python Byte Code / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Env
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database Files
+# NOTE: Do NOT commit the inventory.db file to GitHub.
+# It contains real product data and should stay local.
+# The application will automatically create inventory.db on first run.
+*.db
+*.sqlite
+*.sqlite3
+
+# Build Artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/

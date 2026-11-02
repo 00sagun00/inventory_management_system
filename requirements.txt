@@ -1,0 +1,7 @@
+# Inventory Management System - Requirements
+# This project uses only Python Standard Library
+# No external packages required to run this application
+
+# Python version: Python 3.7 or higher
+# tkinter - included with Python standard library
+# sqlite3 - included with Python standard library
